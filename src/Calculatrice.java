@@ -1,5 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
+import javax.swing.border.LineBorder;
+
 import java.util.Arrays;
 
 public class Calculatrice {
@@ -61,6 +63,7 @@ public class Calculatrice {
             button.setFont(new Font("arial" , Font.PLAIN , 30));
             button.setText(buttonValue);
             button.setFocusable(false);
+            button.setBorder(new LineBorder(black));
             
 
             if(Arrays.asList(topSymbols).contains(buttonValue)){
