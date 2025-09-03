@@ -1,0 +1,15 @@
+# Java
+/bin/
+*.class
+*.log
+*.tmp
+.DS_Store
+*.iml
+.idea/
+*.swp
+*.swo
+*.bak
+*.~
+*.jar
+*.war
+*.ear

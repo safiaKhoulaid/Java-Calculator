@@ -1,20 +1,33 @@
-# Java-Calculator
-## Getting Started
+# Calculatrice Java
 
+Une calculatrice graphique développée en Java avec Swing.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Fonctionnalités
+- Opérations de base : addition, soustraction, multiplication, division
+- Pourcentage, racine carrée, changement de signe
+- Interface graphique moderne
 
-## Folder Structure
+## Installation
+1. Cloner le dépôt :
+	```bash
+	git clone https://github.com/votre-utilisateur/Java-Calculator.git
+	```
+2. Compiler le projet :
+	```bash
+	cd calculatriceJava/src
+	javac -d ../bin App.java calculatrice.java
+	```
+3. Exécuter l'application :
+	```bash
+	cd ../bin
+	java App
+	```
 
-The workspace contains two folders by default, where:
+## Captures d'écran
+*(Ajoutez ici des images de l'application)*
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Auteurs
+- safiaKhoulaid
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Licence
+Ce projet est sous licence MIT. Voir le fichier LICENSE.
