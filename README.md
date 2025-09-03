@@ -24,7 +24,7 @@ Une calculatrice graphique développée en Java avec Swing.
 	```
 
 ## Captures d'écran
-![Calculatrice Java](images/calculatrice.png)
+![Calculatrice Java](C:\Users\ycode\calculatriceJava\calculatriceJava\src\img\calculatrice.png)
 
 *Interface principale de la calculatrice*
 
